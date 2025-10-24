@@ -28,29 +28,25 @@ It performs step‑by‑step:
 ## Run  
 
 Install dependencies:
-```bash
 pip install numpy opencv-python matplotlib 
+
+## Run
+
+Install dependencies:
+```bash
+pip install numpy opencv-python matplotlib
+```
+
 Run script:
-
-
-content_copy
-bash
-
-note_add
-ویرایش با Canvas
 python project_image.py
+
 Or open the notebook:
-
-
-content_copy
-bash
-
-note_add
-ویرایش با Canvas
 jupyter notebook project_image.ipynb
-## Educational Goal
-This mini‑project helps students understand how CNN building blocks actually manipulate images:
 
-kernel‑based filtering in the spatial domain and masking in the frequency domain.
 
-It bridges mathematics and visual intuition without using deep‑learning libraries.
+Educational Goal
+This mini‑project helps students understand how CNN building blocks actually manipulate images —
+
+using kernel‑based filtering in the spatial domain and masking in the frequency domain.
+
+It bridges mathematical operations and visual intuition without relying on deep‑learning frameworks.
