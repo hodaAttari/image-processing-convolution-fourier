@@ -44,7 +44,8 @@ Or open the notebook:
 jupyter notebook project_image.ipynb
 
 
-Educational Goal
+## Educational Goal
+
 This mini‑project helps students understand how CNN building blocks actually manipulate images —
 
 using kernel‑based filtering in the spatial domain and masking in the frequency domain.
