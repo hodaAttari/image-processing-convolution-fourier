@@ -25,11 +25,6 @@ It performs step‑by‑step:
 
 ---
 
-## Run  
-
-Install dependencies:
-pip install numpy opencv-python matplotlib 
-
 ## Run
 
 Install dependencies:
