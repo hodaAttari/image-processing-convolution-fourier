@@ -3,7 +3,6 @@
 A concise educational project in Python demonstrating foundational **image processing** techniques that underlie **Convolutional Neural Networks (CNNs)**.  
 It includes manual convolution, max pooling, Gaussian blur, Fourier transform filtering, and Laplacian edge detection — all implemented from scratch using `NumPy`, `OpenCV`, and `Matplotlib`.
 
----
 
 ## Features  
 
@@ -15,7 +14,6 @@ It performs step‑by‑step:
 - Fourier Transform for frequency mask filtering (low‑pass, high‑pass, band‑pass)  
 - Laplacian operator for boundary detection  
 
----
 
 ## Files  
 
@@ -23,7 +21,6 @@ It performs step‑by‑step:
 `project_image.ipynb` — Notebook version with visualizations and explanations.  
 `yann_lecun.jpg` — Sample grayscale image required for Fourier and Laplacian sections.  
 
----
 
 ## Run
 
